@@ -1,0 +1,86 @@
+Name,Friend Group / Known Associations,Any Notable Person in Common,Friendship Score,Group Count
+Person 2,"['HKJ', 'SLS', 'SCA']",,0.69,3
+Person 11,"['HKJ', 'SLS']",Person 68,0.65,2
+Person 12,"['HKJ', 'SLS']",,0.25,2
+Person 17,"['HKJ', 'SLS']",,0.69,2
+Person 18,"['HKJ', 'SLS']",,0.47,2
+Person 24,"['HKJ', 'SLS']",,0.65,2
+Person 25,"['HKJ', 'SLS']",Person 75,0.52,2
+Person 39,"['HKJ', 'SLS', 'TRB']",,0.69,3
+Person 38,"['HKJ', 'SLS']",,0.56,2
+Person 45,"['HKJ', 'SLS', 'SLC', 'TRB']",,0.69,4
+Person 60,"['HKJ', 'SLS']",Person 31,0.69,2
+Person 71,"['HKJ', 'SLS']",,0.52,2
+Person 73,"['HKJ', 'SLS']",Person 13,0.52,2
+Person 74,"['HKJ', 'SLS']",Person 6,0.4,2
+Person 81,"['HKJ', 'SLS']",,0.4,2
+Person 85,"['HKJ', 'SLS']",Person 28,0.4,2
+Person 50,"['SLS', 'NSA']",,0.69,2
+Person 28,['SLS'],Person 85,0.2,1
+Person 65,"['SLS', 'NSA', 'SCA']",,0.16,3
+Person 46,"['SLS', 'SLC']",,0.4,2
+Person 19,"['SLS', 'SCA', 'SLC']",,0.21,3
+Person 6,['SLS'],Person 74,0.25,1
+Person 13,['SLS'],Person 73,0.3,1
+Person 69,['SLS'],Person 11,0.34,1
+Person 75,['SLS'],Person 25,0.34,1
+Person 31,['SLS'],Person 60,0.44,1
+Person 48,['SLS'],,0.39,1
+Person 47,['SLS'],,0.35,1
+Person 72,"['SLS', 'RAN']",,0.52,2
+Person 58,"['SLS', 'RAN', 'BSC']",,0.25,3
+Person 20,"['SLS', 'BSC']",,0.49,2
+Person 44,"['SLS', 'RAN']",,0.46,2
+Person 79,['SLS'],,0.42,1
+Person 67,['SLS'],,0.56,1
+Person 76,"['SLS', 'HKJ']",,0.43,2
+Person 32,[],,0.47,0
+Person 10,['IND'],,0.31,1
+Person 37,[],Person 19,0.57,0
+Person 55,['FG5'],,0.62,1
+Person 30,['FG5'],,0.41,1
+Person 49,['FG5'],,0.3,1
+Person 33,[],Person 55,0.46,0
+Person 1,"['SLS', 'RAN', 'NSA']",,0.3,3
+Person 70,"['LSS', 'SCB']",,0.57,2
+Person 66,"['LSS', 'SCB']",Person 57,0.35,2
+Person 36,['LSS'],,0.42,1
+Person 62,['LSS'],,0.37,1
+Person 57,"['LSS', 'SCB']",Person 66,0.42,2
+Person 8,['SCB'],,0.38,1
+Person 16,"['LSS', 'SCB']",,0.4,2
+Person 64,['LSS'],,0.44,1
+Person 7,['LSS'],,0.44,1
+Person 4,['LSS'],,0.52,1
+Person 53,['LSS'],,0.42,1
+Person 78,['LSS'],,0.46,1
+Person 63,"['SLS', 'HKJ']",,0.37,2
+Person 26,['LSS'],,0.3,1
+Person 41,['LSS'],,0.35,1
+Person 80,[],,0.15,0
+Person 34,['LSS'],,0.74,1
+Person 14,['AIR'],,0.66,1
+Person 83,['AIR'],,0.52,1
+Person 27,['AIR'],,0.68,1
+Person 77,['AIR'],,0.44,1
+Person 40,['AIR'],,0.21,1
+Person 29,[],Person 52,0.61,0
+Person 52,['AIR'],Person 29,0.62,1
+Person 35,['AIR'],,0.39,1
+Person 21,['AIR'],,0.34,1
+Person 54,['ACD'],Person 84,0.34,1
+Person 23,['ACD'],,0.25,1
+Person 84,['ACD'],Person 54,0.57,1
+Person 5,"['BSC', 'TGP', 'GP2']",,0.62,3
+Person 61,"['BSC', 'TGP', 'GP2']",Person 82,0.53,3
+Person 22,"['BSC', 'TGP']",,0.43,2
+Person 82,"['BSC', 'TGP', 'GP2']",Person 61,0.36,3
+Person 56,"['BSC', 'TGP']",,0.36,2
+Person 9,"['BSC', 'GP2']",,0.4,2
+Person 42,"['BSC', 'TGP']",,0.4,2
+Person 43,"['BSC', 'TGP']",,0.69,2
+Person 51,"['BSC', 'TGP', 'GP2']",,0.21,3
+Person 3,"['BSC', 'TGP']",,0.37,2
+Person 59,['LSS'],,0.37,1
+Person 15,['LSS'],,0.52,1
+Person 86,['FAF'],,0.0,1
