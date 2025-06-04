@@ -38,7 +38,7 @@ def convert_social_csv_to_json(csv_file_path, json_file_path):
         person = {
             "name": row['Name'],
             "groups": groups,
-            "friendshipScore": float(row['Friendship Score']) if pd.notna(row['Friendship Score']) else 0.0,
+            "FSize": float(row['Node Size']) if pd.notna(row['Node Size']) else 0.0,
             "notablePerson": notable_person,
             "groupCount": int(row['Group Count']) if pd.notna(row['Group Count']) else 0
         }
@@ -51,30 +51,16 @@ def convert_social_csv_to_json(csv_file_path, json_file_path):
     
     print(f"Successfully converted {len(processed_data)} records from {csv_file_path} to {json_file_path}")
     
-    # Print some statistics
-    all_groups = []
-    for person in processed_data:
-        all_groups.extend(person['groups'])
-    
-    unique_groups = list(set(all_groups))
-    friendship_scores = [p['friendshipScore'] for p in processed_data if p['friendshipScore'] > 0]
-    
-    print(f"\nSummary:")
-    print(f"- Total people: {len(processed_data)}")
-    print(f"- Unique groups: {len(unique_groups)}")
-    print(f"- Groups: {', '.join(sorted(unique_groups))}")
-    print(f"- Friendship score range: {min(friendship_scores):.2f} - {max(friendship_scores):.2f}")
-    print(f"- Average friendship score: {sum(friendship_scores)/len(friendship_scores):.2f}")
 
 # Example usage
 if __name__ == "__main__":
     # Convert the CSV to JSON
-    convert_social_csv_to_json('Data/processed_social_connections.csv', 'social_network_data.json')
+    #convert_social_csv_to_json('Data/processed_social_connections.csv', 'social_network_data.json')
     convert_social_csv_to_json('Data/anonymized_social_connections.csv', 'hidden_social_network_data.json')
     
     # Optional: Validate the JSON by reading it back
     try:
-        with open('social_network_data.json', 'r', encoding='utf-8') as f:
+        with open('hidden_social_network_data.json', 'r', encoding='utf-8') as f:
             data = json.load(f)
         print(f"\nValidation: Successfully loaded {len(data)} records from JSON file")
     except Exception as e:

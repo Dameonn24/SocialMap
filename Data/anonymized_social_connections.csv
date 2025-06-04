@@ -27,10 +27,10 @@ Person 75,['SLS'],Person 25,0.34,1
 Person 31,['SLS'],Person 60,0.44,1
 Person 48,['SLS'],,0.39,1
 Person 47,['SLS'],,0.35,1
-Person 72,"['SLS', 'RAN']",,0.52,2
-Person 58,"['SLS', 'RAN', 'BSC']",,0.25,3
+Person 72,"['SLS', 'ARN']",,0.52,2
+Person 58,"['SLS', 'ARN', 'BSC']",,0.25,3
 Person 20,"['SLS', 'BSC']",,0.49,2
-Person 44,"['SLS', 'RAN']",,0.46,2
+Person 44,"['SLS', 'ARN']",,0.46,2
 Person 79,['SLS'],,0.42,1
 Person 67,['SLS'],,0.56,1
 Person 76,"['SLS', 'HKJ']",,0.43,2
@@ -41,7 +41,7 @@ Person 55,['FG5'],,0.62,1
 Person 30,['FG5'],,0.41,1
 Person 49,['FG5'],,0.3,1
 Person 33,[],Person 55,0.46,0
-Person 1,"['SLS', 'RAN', 'NSA']",,0.3,3
+Person 1,"['SLS', 'ARN', 'NSA']",,0.3,3
 Person 70,"['LSS', 'SCB']",,0.57,2
 Person 66,"['LSS', 'SCB']",Person 57,0.35,2
 Person 36,['LSS'],,0.42,1

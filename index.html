@@ -191,7 +191,7 @@
             //const response = await fetch('social_network_data.json');
             const response = await fetch('hidden_social_network_data.json');
             const data = await response.json();
-            
+            console.log(data);
             return data;
         }
 
@@ -261,14 +261,14 @@
             
             // Add person nodes
             data.forEach(person => {
-                const nodeSize = Math.max(4, person.friendshipScore * 15);
+                const nodeSize = Math.max(4, person.FSize * 15);
                 
                 nodes.push({
                     id: person.name,
                     name: person.name,
                     type: 'person',
                     size: nodeSize,
-                    //friendshipScore: person.friendshipScore,
+                    //FSize: person.FSize,
                     groups: person.groups,
                     notablePerson: person.notablePerson,
                     groupCount: person.groupCount,
