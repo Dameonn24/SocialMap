@@ -16,7 +16,6 @@ Interactive visualization of social connections and friend groups.
 ## Data
 - 84 people across 15 friend groups
 - Anonymized for privacy protection
-- Friendship scores from 0.15 to 0.74
 
 ## Technologies
 - D3.js for visualization
