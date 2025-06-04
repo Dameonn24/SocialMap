@@ -1,4 +1,4 @@
-Name,Friend Group / Known Associations,Any Notable Person in Common,Friendship Score,Group Count
+Name,Friend Group / Known Associations,Any Notable Person in Common,Node Size,Group Count
 Person 2,"['HKJ', 'SLS', 'SCA']",,0.69,3
 Person 11,"['HKJ', 'SLS']",Person 68,0.65,2
 Person 12,"['HKJ', 'SLS']",,0.25,2
