@@ -281,7 +281,7 @@
     "name": "Person 72",
     "groups": [
       "SLS",
-      "RAN"
+      "ARN"
     ],
     "friendshipScore": 0.52,
     "notablePerson": null,
@@ -291,7 +291,7 @@
     "name": "Person 58",
     "groups": [
       "SLS",
-      "RAN",
+      "ARN",
       "BSC"
     ],
     "friendshipScore": 0.25,
@@ -312,7 +312,7 @@
     "name": "Person 44",
     "groups": [
       "SLS",
-      "RAN"
+      "ARN"
     ],
     "friendshipScore": 0.46,
     "notablePerson": null,
@@ -407,7 +407,7 @@
     "name": "Person 1",
     "groups": [
       "SLS",
-      "RAN",
+      "ARN",
       "NSA"
     ],
     "friendshipScore": 0.3,
