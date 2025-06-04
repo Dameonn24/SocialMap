@@ -1,0 +1,810 @@
+[
+  {
+    "name": "Person 2",
+    "groups": [
+      "HKJ",
+      "SLS",
+      "SCA"
+    ],
+    "friendshipScore": 0.69,
+    "notablePerson": null,
+    "groupCount": 3
+  },
+  {
+    "name": "Person 11",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.65,
+    "notablePerson": "Person 68",
+    "groupCount": 2
+  },
+  {
+    "name": "Person 12",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.25,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 17",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.69,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 18",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.47,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 24",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.65,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 25",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.52,
+    "notablePerson": "Person 75",
+    "groupCount": 2
+  },
+  {
+    "name": "Person 39",
+    "groups": [
+      "HKJ",
+      "SLS",
+      "TRB"
+    ],
+    "friendshipScore": 0.69,
+    "notablePerson": null,
+    "groupCount": 3
+  },
+  {
+    "name": "Person 38",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.56,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 45",
+    "groups": [
+      "HKJ",
+      "SLS",
+      "SLC",
+      "TRB"
+    ],
+    "friendshipScore": 0.69,
+    "notablePerson": null,
+    "groupCount": 4
+  },
+  {
+    "name": "Person 60",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.69,
+    "notablePerson": "Person 31",
+    "groupCount": 2
+  },
+  {
+    "name": "Person 71",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.52,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 73",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.52,
+    "notablePerson": "Person 13",
+    "groupCount": 2
+  },
+  {
+    "name": "Person 74",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.4,
+    "notablePerson": "Person 6",
+    "groupCount": 2
+  },
+  {
+    "name": "Person 81",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.4,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 85",
+    "groups": [
+      "HKJ",
+      "SLS"
+    ],
+    "friendshipScore": 0.4,
+    "notablePerson": "Person 28",
+    "groupCount": 2
+  },
+  {
+    "name": "Person 50",
+    "groups": [
+      "SLS",
+      "NSA"
+    ],
+    "friendshipScore": 0.69,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 28",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.2,
+    "notablePerson": "Person 85",
+    "groupCount": 1
+  },
+  {
+    "name": "Person 65",
+    "groups": [
+      "SLS",
+      "NSA",
+      "SCA"
+    ],
+    "friendshipScore": 0.16,
+    "notablePerson": null,
+    "groupCount": 3
+  },
+  {
+    "name": "Person 46",
+    "groups": [
+      "SLS",
+      "SLC"
+    ],
+    "friendshipScore": 0.4,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 19",
+    "groups": [
+      "SLS",
+      "SCA",
+      "SLC"
+    ],
+    "friendshipScore": 0.21,
+    "notablePerson": null,
+    "groupCount": 3
+  },
+  {
+    "name": "Person 6",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.25,
+    "notablePerson": "Person 74",
+    "groupCount": 1
+  },
+  {
+    "name": "Person 13",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.3,
+    "notablePerson": "Person 73",
+    "groupCount": 1
+  },
+  {
+    "name": "Person 69",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.34,
+    "notablePerson": "Person 11",
+    "groupCount": 1
+  },
+  {
+    "name": "Person 75",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.34,
+    "notablePerson": "Person 25",
+    "groupCount": 1
+  },
+  {
+    "name": "Person 31",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.44,
+    "notablePerson": "Person 60",
+    "groupCount": 1
+  },
+  {
+    "name": "Person 48",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.39,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 47",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.35,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 72",
+    "groups": [
+      "SLS",
+      "ARN"
+    ],
+    "friendshipScore": 0.52,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 58",
+    "groups": [
+      "SLS",
+      "ARN",
+      "BSC"
+    ],
+    "friendshipScore": 0.25,
+    "notablePerson": null,
+    "groupCount": 3
+  },
+  {
+    "name": "Person 20",
+    "groups": [
+      "SLS",
+      "BSC"
+    ],
+    "friendshipScore": 0.49,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 44",
+    "groups": [
+      "SLS",
+      "ARN"
+    ],
+    "friendshipScore": 0.46,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 79",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.42,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 67",
+    "groups": [
+      "SLS"
+    ],
+    "friendshipScore": 0.56,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 76",
+    "groups": [
+      "SLS",
+      "HKJ"
+    ],
+    "friendshipScore": 0.43,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 32",
+    "groups": [],
+    "friendshipScore": 0.47,
+    "notablePerson": null,
+    "groupCount": 0
+  },
+  {
+    "name": "Person 10",
+    "groups": [
+      "IND"
+    ],
+    "friendshipScore": 0.31,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 37",
+    "groups": [],
+    "friendshipScore": 0.57,
+    "notablePerson": "Person 19",
+    "groupCount": 0
+  },
+  {
+    "name": "Person 55",
+    "groups": [
+      "FG5"
+    ],
+    "friendshipScore": 0.62,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 30",
+    "groups": [
+      "FG5"
+    ],
+    "friendshipScore": 0.41,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 49",
+    "groups": [
+      "FG5"
+    ],
+    "friendshipScore": 0.3,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 33",
+    "groups": [],
+    "friendshipScore": 0.46,
+    "notablePerson": "Person 55",
+    "groupCount": 0
+  },
+  {
+    "name": "Person 1",
+    "groups": [
+      "SLS",
+      "ARN",
+      "NSA"
+    ],
+    "friendshipScore": 0.3,
+    "notablePerson": null,
+    "groupCount": 3
+  },
+  {
+    "name": "Person 70",
+    "groups": [
+      "LSS",
+      "SCB"
+    ],
+    "friendshipScore": 0.57,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 66",
+    "groups": [
+      "LSS",
+      "SCB"
+    ],
+    "friendshipScore": 0.35,
+    "notablePerson": "Person 57",
+    "groupCount": 2
+  },
+  {
+    "name": "Person 36",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.42,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 62",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.37,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 57",
+    "groups": [
+      "LSS",
+      "SCB"
+    ],
+    "friendshipScore": 0.42,
+    "notablePerson": "Person 66",
+    "groupCount": 2
+  },
+  {
+    "name": "Person 8",
+    "groups": [
+      "SCB"
+    ],
+    "friendshipScore": 0.38,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 16",
+    "groups": [
+      "LSS",
+      "SCB"
+    ],
+    "friendshipScore": 0.4,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 64",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.44,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 7",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.44,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 4",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.52,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 53",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.42,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 78",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.46,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 63",
+    "groups": [
+      "SLS",
+      "HKJ"
+    ],
+    "friendshipScore": 0.37,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 26",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.3,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 41",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.35,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 80",
+    "groups": [],
+    "friendshipScore": 0.15,
+    "notablePerson": null,
+    "groupCount": 0
+  },
+  {
+    "name": "Person 34",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.74,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 14",
+    "groups": [
+      "AIR"
+    ],
+    "friendshipScore": 0.66,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 83",
+    "groups": [
+      "AIR"
+    ],
+    "friendshipScore": 0.52,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 27",
+    "groups": [
+      "AIR"
+    ],
+    "friendshipScore": 0.68,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 77",
+    "groups": [
+      "AIR"
+    ],
+    "friendshipScore": 0.44,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 40",
+    "groups": [
+      "AIR"
+    ],
+    "friendshipScore": 0.21,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 29",
+    "groups": [],
+    "friendshipScore": 0.61,
+    "notablePerson": "Person 52",
+    "groupCount": 0
+  },
+  {
+    "name": "Person 52",
+    "groups": [
+      "AIR"
+    ],
+    "friendshipScore": 0.62,
+    "notablePerson": "Person 29",
+    "groupCount": 1
+  },
+  {
+    "name": "Person 35",
+    "groups": [
+      "AIR"
+    ],
+    "friendshipScore": 0.39,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 21",
+    "groups": [
+      "AIR"
+    ],
+    "friendshipScore": 0.34,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 54",
+    "groups": [
+      "ACD"
+    ],
+    "friendshipScore": 0.34,
+    "notablePerson": "Person 84",
+    "groupCount": 1
+  },
+  {
+    "name": "Person 23",
+    "groups": [
+      "ACD"
+    ],
+    "friendshipScore": 0.25,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 84",
+    "groups": [
+      "ACD"
+    ],
+    "friendshipScore": 0.57,
+    "notablePerson": "Person 54",
+    "groupCount": 1
+  },
+  {
+    "name": "Person 5",
+    "groups": [
+      "BSC",
+      "TGP",
+      "GP2"
+    ],
+    "friendshipScore": 0.62,
+    "notablePerson": null,
+    "groupCount": 3
+  },
+  {
+    "name": "Person 61",
+    "groups": [
+      "BSC",
+      "TGP",
+      "GP2"
+    ],
+    "friendshipScore": 0.53,
+    "notablePerson": "Person 82",
+    "groupCount": 3
+  },
+  {
+    "name": "Person 22",
+    "groups": [
+      "BSC",
+      "TGP"
+    ],
+    "friendshipScore": 0.43,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 82",
+    "groups": [
+      "BSC",
+      "TGP",
+      "GP2"
+    ],
+    "friendshipScore": 0.36,
+    "notablePerson": "Person 61",
+    "groupCount": 3
+  },
+  {
+    "name": "Person 56",
+    "groups": [
+      "BSC",
+      "TGP"
+    ],
+    "friendshipScore": 0.36,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 9",
+    "groups": [
+      "BSC",
+      "GP2"
+    ],
+    "friendshipScore": 0.4,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 42",
+    "groups": [
+      "BSC",
+      "TGP"
+    ],
+    "friendshipScore": 0.4,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 43",
+    "groups": [
+      "BSC",
+      "TGP"
+    ],
+    "friendshipScore": 0.69,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 51",
+    "groups": [
+      "BSC",
+      "TGP",
+      "GP2"
+    ],
+    "friendshipScore": 0.21,
+    "notablePerson": null,
+    "groupCount": 3
+  },
+  {
+    "name": "Person 3",
+    "groups": [
+      "BSC",
+      "TGP"
+    ],
+    "friendshipScore": 0.37,
+    "notablePerson": null,
+    "groupCount": 2
+  },
+  {
+    "name": "Person 59",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.37,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 15",
+    "groups": [
+      "LSS"
+    ],
+    "friendshipScore": 0.52,
+    "notablePerson": null,
+    "groupCount": 1
+  },
+  {
+    "name": "Person 86",
+    "groups": [
+      "FAF"
+    ],
+    "friendshipScore": 0.0,
+    "notablePerson": null,
+    "groupCount": 1
+  }
+]
