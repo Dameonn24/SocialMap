@@ -268,7 +268,7 @@
                     name: person.name,
                     type: 'person',
                     size: nodeSize,
-                    friendshipScore: person.friendshipScore,
+                    //friendshipScore: person.friendshipScore,
                     groups: person.groups,
                     notablePerson: person.notablePerson,
                     groupCount: person.groupCount,
@@ -393,7 +393,7 @@
                 let content = `<strong>${d.name}</strong><br>`;
                 
                 if (d.type === 'person') {
-                    content += `Friendship Score: ${d.friendshipScore.toFixed(2)}<br>`;
+                    //content += `Friendship Score: ${d.friendshipScore.toFixed(2)}<br>`;
                     content += `Groups: ${d.groups.join(', ')}<br>`;
                     if (d.notablePerson) {
                         content += `Notable Connection: ${d.notablePerson}<br>`;
@@ -479,7 +479,6 @@
             statsContent.html(`
                 <div>Total People: ${data.length}</div>
                 <div>Total Groups: ${groups.length}</div>
-                <div>Avg Friendship Score: ${d3.mean(data, d => d.friendshipScore).toFixed(2)}</div>
                 <div>Largest Group: ${groups.reduce((a, b) => groupCounts[a] > groupCounts[b] ? a : b)} (${Math.max(...Object.values(groupCounts))} members)</div>
             `);
         }
